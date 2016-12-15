@@ -1,0 +1,1 @@
+javascript:($('#key-val').text() + '-' + $('#summary-val').text().toLowerCase().replace(/\W/g, '-'))
